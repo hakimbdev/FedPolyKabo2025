@@ -449,7 +449,7 @@ const Home = () => {
                 <div className="absolute inset-0 bg-gradient-to-t from-blue-900/80 via-blue-900/40 to-transparent"></div>
               </div>
               <div className="p-8 relative">
-                <h3 className="text-3xl font-semibold mb-3 text-blue-800 text-center">Prof. John Smith</h3>
+                <h3 className="text-3xl font-semibold mb-3 text-blue-800 text-center">Professor Mohammed Sanusi Magaji</h3>
                 <p className="text-xl text-blue-600 text-center mb-6">Vice Chancellor</p>
                 <p className="text-blue-600 mb-8 text-center">
                   Distinguished Professor with over 20 years of experience in educational leadership and academic excellence
